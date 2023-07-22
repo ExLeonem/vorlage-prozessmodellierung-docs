@@ -1,5 +1,5 @@
 ---
-title: "Task mergeScripts"
+title: "mergeScripts"
 description: "Task zum zusammenfügen der Groovy-Skript-Tasks aus mehreren Dateien."
 lead: ""
 date: 2022-01-25T14:40:56+01:00
@@ -39,8 +39,6 @@ Wird ein bereits behandelter Import erreicht, so wird dies erkannt
 und der Import wird nicht erneut eingefügt. 
 Imports, die nicht mit dem root package `commons` beginnen, führen nicht zu einem Einbinden
 einer Datei.
-
-
 
 Die importierten Klassen werden an zwei Stellen gesucht:
 * Im Verzeichnis <a target="_blank" href="/docs/plugin/structure/#ordner-scripts">scripts/commons</a>. Dort werden typischerweise projektinterne Klassen abgelegt. Diese Klassen müssen das package commons haben. 

@@ -1,5 +1,5 @@
 ---
-title: "Task uploadFormularFiles"
+title: "uploadFormularFiles"
 description: "Lädt die Formulare des Projekts in das Admincenter hoch."
 lead: ""
 date: 2022-01-25T14:40:56+01:00

@@ -1,5 +1,5 @@
 ---
-title: "Task getAuthorizationToken"
+title: "getAuthorizationToken"
 description: "Erzeugt einen neuen Bearer-Token für die Authentisierung in einer Serviceportal Umgebung."
 lead: ""
 date: 2022-01-25T14:40:56+01:00

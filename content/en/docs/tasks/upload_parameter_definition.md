@@ -1,5 +1,5 @@
 ---
-title: "Task uploadParameterDefinition"
+title: "uploadParameterDefinition"
 description: "Lädt eine Prozessparameterdefinition für einen Prozess in das Admincenter hoch."
 lead: ""
 date: 2022-01-25T14:40:56+01:00

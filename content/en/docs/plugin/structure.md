@@ -1,6 +1,6 @@
 ---
 title: "Erwartete Ordnerstruktur"
-description: ""
+description: "Die Ordnerstruktur die vom Plugin erwartet wird. Um die Funktionsweise des Plugins zu gewährleisten muss diese eingehalten werden."
 lead: ""
 date: 2022-01-25T14:40:56+01:00
 lastmod: 2022-01-25T14:40:56+01:00

@@ -1,5 +1,5 @@
 ---
-title: "Task stopLocalHttpServer"
+title: "stopLocalHttpServer"
 description: "Stoppt den lokalen Server zum bearbeiten von lokalen Dateien."
 lead: ""
 date: 2022-01-25T14:40:56+01:00

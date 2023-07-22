@@ -1,7 +1,7 @@
 ---
-title: "Tasks"
-description: ""
-lead: ""
+title: "Übersicht: Tasks"
+description: "Die in diesem Release enthaltenen Tasks."
+lead: "Die in diesem Release enthaltenen Tasks."
 date: 2022-01-25T14:40:56+01:00
 lastmod: 2022-01-25T14:40:56+01:00
 draft: false
@@ -13,12 +13,10 @@ menu:
 toc: true
 ---
 
-In diesem Release enthalten sind die Tasks
-
 | Task | Beschreibung |
 | --- | --- |
-| <a href="/docs/tasks/merge_scripts/">mergeScripts</a> | Fügt die einzelnen Bestandteile der Skripte zu kompilierbaren Groovy-Skripten zusammen |
 | <a href="/docs/tasks/build_model/">buildModel</a> | Fügt die Skripte in das Prozessmodell ein |
+| <a href="/docs/tasks/merge_scripts/">mergeScripts</a> | Fügt die einzelnen Bestandteile der Skripte zu kompilierbaren Groovy-Skripten zusammen |
 | <a href="/docs/tasks/upload_process_model_files/">uploadProcessModelFiles</a> | Lädt Prozessmodell-Dateien in das Admincenter hoch |
 | <a href="/docs/tasks/upload_parameter_definition/">uploadParameterDefinitions</a> | Lädt Prozessparameterdefinitionen in das Admincenter hoch  
 |<a href="/docs/tasks/get_active_process_engines/">getActiveProcessEngines</a> | Gibt die Liste der zur Verfügung stehenden Prozess-Engines aus |

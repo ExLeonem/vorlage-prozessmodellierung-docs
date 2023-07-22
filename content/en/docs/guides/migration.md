@@ -1,6 +1,6 @@
 ---
 title: "Migration"
-description: ""
+description: "Anleitungen zum Migrieren in aktuellere Versionen des Gradle Plugins."
 lead: ""
 date: 2022-01-25T14:40:56+01:00
 lastmod: 2022-01-25T14:40:56+01:00

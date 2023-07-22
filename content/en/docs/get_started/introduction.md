@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: ""
+description: "Anleitung um das Gradle Plugin nutzen zu können."
 lead: ""
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
@@ -27,7 +27,7 @@ toc: true
 (vorgeschlagener Name: `template`) zu Ihrem Projekt hinzufügen: 
 
 ```shell
-git remote add template {link zu diesem repo}
+git remote add template https://github.com/Seitenbau/Vorlage-Prozessmodellierung-Serviceportal
 ```
 
 Danach folgendes Kommando ausführen
@@ -36,7 +36,7 @@ Danach folgendes Kommando ausführen
 git fetch --all
 ```
 
-5. Im Anschluss alle Dateien aus der Vorlage in das Projekt mergen.
+Im Anschluss alle Dateien aus der Vorlage in das Projekt mergen.
 
 ```shell
 git merge template/master --allow-unrelated-histories

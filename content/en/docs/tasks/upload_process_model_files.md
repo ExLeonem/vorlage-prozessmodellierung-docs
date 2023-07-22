@@ -1,5 +1,5 @@
 ---
-title: "Task uploadProcessModelFiles"
+title: "uploadProcessModelFiles"
 description: "Lädt die mit dem Task `buildModel` gebauten Prozessmodell-Datein ins Admincenter hoch."
 lead: ""
 date: 2022-01-25T14:40:56+01:00

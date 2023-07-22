@@ -1,6 +1,6 @@
 ---
-title: "Task buildModel"
-description: "Fügt mit `mergeScripts` zusammengefügte Skripte in die Prozessmodelle ein."
+title: "buildModel"
+description: "Dieser Task dient dem einfügen von Skripten in Prozessmodelle."
 lead: ""
 date: 2022-01-25T14:40:56+01:00
 lastmod: 2022-01-25T14:40:56+01:00

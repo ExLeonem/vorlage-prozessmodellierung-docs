@@ -1,7 +1,7 @@
 ---
 title: "Quick Start"
-description: "Schnelle konfiguration eines Workspaces zum modellieren von Prozessen."
-lead: ""
+description: "Schnelle konfiguration eines Workspaces zum modellieren von Prozessen und nutzen des Gradle Plugins."
+lead: "Schnelle konfiguration eines Workspaces zum modellieren von Prozessen."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -13,6 +13,10 @@ weight: 110
 toc: true
 ---
 
+## Vorraussetzungen
+
+- <a target="_blank" href="https://docs.gradle.org/7.6/release-notes.html">Gradle</a> - Version 7.6
+- <a target="_blank" href="https://docs.aws.amazon.com/de_de/corretto/latest/corretto-11-ug/downloads-list.html">Java</a> - mindestens in version 11
 
 ## Vorlage Prozessmodellierung auschecken
 

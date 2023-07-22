@@ -1,5 +1,17 @@
 - id: get-started
-  translation: "Loslegen"
+  translation: "Get Started"
 
 - id: on-this-page
-  translation: "Auf dieser Seite"
+  translation: "Auf dierser Seite"
+
+- id: search-text
+  translation: "Suchen..."
+
+- id: 404-title
+  translation: "Seite nicht gefunden :("
+
+- id: 404-text
+  translation: "Die Seite nach der du suchst konnte nicht gefunden werden."
+
+- id: browse
+  translation: "Browse"
