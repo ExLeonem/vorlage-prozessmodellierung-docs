@@ -22,3 +22,10 @@ cd vorlage-prozessmodellierung-docs
 ```shell
 npm install
 ```
+
+
+### Run the docs
+
+```shell
+npm run start
+```
